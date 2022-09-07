@@ -22,7 +22,7 @@ darkmode: true
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-linkedin_username: volodymyr-kniaziev-948959137
+#linkedin_username: volodymyr-kniaziev-948959137
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -31,9 +31,9 @@ linkedin_username: volodymyr-kniaziev-948959137
 
 # Additional icon links
 additional_links:
-  - title: resume.pdf
-    icon: fas fa-file-pdf
-    url: https://kniazievvolodymyr.github.io/resume/KniazievVolodymyr.pdf
+#  - title: resume.pdf
+#    icon: fas fa-file-pdf
+#    url: https://kniazievvolodymyr.github.io/resume/KniazievVolodymyr.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+#about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name’s Volodymyr and I’m a senior Java developer, have 5+ years of commercial experience.   
   During that time I participated in different projects: fin-tech, gaming, resource managment, and e-commerce. 
